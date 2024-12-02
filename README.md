@@ -1,0 +1,2 @@
+# conjuntosDisjuntos
+Trabalho Prático AEDII
